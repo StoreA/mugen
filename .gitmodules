@@ -1,0 +1,6 @@
+[submodule "virtual_env/venv/bin/llama.cpp"]
+	path = virtual_env/venv/bin/llama.cpp
+	url = https://github.com/ggerganov/llama.cpp
+[submodule "virtual_env/venv/llama.cpp"]
+	path = virtual_env/venv/llama.cpp
+	url = https://github.com/ggerganov/llama.cpp.git
